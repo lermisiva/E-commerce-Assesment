@@ -1,0 +1,123 @@
+{
+  "filters": {
+    "categories": [
+      "Electronics",
+      "Accessories",
+      "Home & Office",
+      "Gaming"
+    ],
+    "priceRange": {
+      "min": 0,
+      "max": 300
+    },
+    "ratings": [
+      1, 2, 3, 4, 5
+    ],
+    "stockAvailability": [
+      "In Stock",
+      "Out of Stock"
+    ]
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "description": "A comfortable wireless mouse with long battery life.",
+      "price": 25.99,
+      "rating": 4.5,
+      "stock": 100,
+      "category": "Electronics",
+      "image": "assets/download.png"
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "description": "A durable mechanical keyboard with RGB lighting.",
+      "price": 85.99,
+      "rating": 4.7,
+      "stock": 50,
+      "category": "Electronics",
+      "image": "assets/download.png"
+    },
+    {
+      "id": 3,
+      "name": "Bluetooth Speaker",
+      "description": "Portable speaker with excellent sound quality.",
+      "price": 40.0,
+      "rating": 4.2,
+      "stock": 75,
+      "category": "Accessories",
+      "image": "assets/download.png"
+    },
+    {
+      "id": 4,
+      "name": "Gaming Headset",
+      "description": "Over-ear headset with noise-cancelling mic.",
+      "price": 55.99,
+      "rating": 4.4,
+      "stock": 30,
+      "category": "Gaming",
+      "image": "assets/download.png"
+    },
+    {
+      "id": 5,
+      "name": "Laptop Stand",
+      "description": "Adjustable stand suitable for all laptops.",
+      "price": 29.99,
+      "rating": 4.6,
+      "stock": 120,
+      "category": "Home & Office",
+      "image": "assets/download.png"
+    },
+    {
+      "id": 6,
+      "name": "USB-C Hub",
+      "description": "7-in-1 USB-C hub with HDMI and card readers.",
+      "price": 45.0,
+      "rating": 4.3,
+      "stock": 80,
+      "category": "Accessories",
+      "image": "assets/download.png"
+    },
+    {
+      "id": 7,
+      "name": "Smartwatch",
+      "description": "Fitness tracker with heart rate monitor.",
+      "price": 75.99,
+      "rating": 4.1,
+      "stock": 60,
+      "category": "Electronics",
+      "image": "assets/download.png"
+    },
+    {
+      "id": 8,
+      "name": "Action Camera",
+      "description": "Waterproof action camera with 4K recording.",
+      "price": 120.0,
+      "rating": 4.8,
+      "stock": 20,
+      "category": "Electronics",
+      "image": "assets/download.png"
+    },
+    {
+      "id": 9,
+      "name": "External SSD",
+      "description": "1TB high-speed external SSD.",
+      "price": 99.99,
+      "rating": 4.7,
+      "stock": 25,
+      "category": "Electronics",
+      "image": "assets/download.png"
+    },
+    {
+      "id": 10,
+      "name": "Ergonomic Chair",
+      "description": "Comfortable chair with lumbar support.",
+      "price": 150.0,
+      "rating": 4.5,
+      "stock": 10,
+      "category": "Home & Office",
+      "image": "assets/download.png"
+    }
+  ]
+}
