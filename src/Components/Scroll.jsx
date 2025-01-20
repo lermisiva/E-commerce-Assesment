@@ -4,14 +4,14 @@ import React from "react";
 const handleScrollToTop = (e) => {
   e.preventDefault(); // Prevent default anchor behavior
   window.scrollTo({
-    top: 0, // Scroll to the top of the page
-    behavior: 'smooth', // Smooth scrolling
+    top: 0, 
+    behavior: 'smooth',
   });
 };
 
 export function Scroll() {
   return (
-    <div>
+    <div className="static">
       <a
         href="#"
         onClick={handleScrollToTop} // Trigger scroll function on click

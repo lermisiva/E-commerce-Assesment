@@ -24,14 +24,14 @@ const ProductCard = ({ product, addToCart }) => (
     </p>
     <div className="flex justify-between">
       <button
-        className="overflow-hidden border border-yellow-300 px-2 py-2 bg-yellow-200 rounded-2xl text-gray-700"
+        className="overflow-hidden border border-slate-500 px-2 py-2 bg-slate-800 rounded-2xl text-gray-200 hover:text-slate-800 hover:bg-gray-200"
         onClick={(e) => addToCart(e)}
       >
         Add To Cart
         <span className="ripple"></span>
       </button>
       <a
-        className="border border-yellow-300 px-2 py-2 bg-yellow-200 rounded-2xl text-gray-700"
+        className="border border-slate-500 px-2 py-2 bg-slate-800 rounded-2xl text-gray-200 hover:text-slate-800 hover:bg-gray-200"
         href="#"
       >
         Buy Now
